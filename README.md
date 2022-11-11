@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifuhameed
 - 👀 I’m interested in IOT and wireless devices
-- 🌱 I’m currently learning ThingsBoard
+- 🌱 
 - 💞️ I’m looking to collaborate on iotCloud projects
 - 📫 How to reach me ...
 
